@@ -27,17 +27,18 @@ Documenation and Instructions
 <p style="box-sizing: border-box; margin: 0px 0px 10px; max-height: 99999px; word-wrap: break-word;"><span><span>The Skytap Action Pack allows you to build visual workflows to fully automate common Skytap related activities.</span></span></p>
 <h2>Pre-Requisites</h2>
 <ul>
-<li>Automic Engine 11.2 or above</li>
+<li>Automic 11.2 or above</li>
 <li>Automic Web Services Agent 3.x</li>
+<li><a href="https://marketplace.automic.com/details/plugin-manager" target="_blank">Plugin Manager</a></li>
 <li>Skytap account. (Tested against Skytap Trial Account)</li>
 </ul>
 <h2>Installation</h2>
 <ol>
 <li>Download the Skytap Action pack GitHub project archive from Automic marketplace</li>
 <li>Extract the archive to get the&nbsp;PCK.TK_SKYTAP_1.X.X.zip file, this is the actual action pack.</li>
-<li>Log onto the Automation Engine.</li>
+<li>Log onto the Automation Web Interface (ECC).</li>
 <li>Navigate to Administation tab</li>
-<li>Click&nbsp;<strong>Packs</strong>&nbsp;then cick&nbsp;<strong>Install Pack</strong></li>
+<li>Click&nbsp;<strong>Packs</strong>&nbsp;then click&nbsp;<strong>Install Pack</strong></li>
 <li>Select the action pack that you downloaded. Upon installation, the pack PCK.TK_SKYTAP should appear</li>
 </ol>
 <h3>Configuration</h3>
